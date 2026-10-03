@@ -4,7 +4,7 @@
 
 > **Elevate 1.0 National Level Hackathon · Round 0 submission**
 > Problem Statement: **EL-01 · AI-Powered ML Paper Reproducibility Platform**
-> Team: `<YOUR TEAM NAME>`
+> Team: `TILUGANG`
 > Status: **design and prototype stage** (see [Project status](#project-status))
 
 ---
